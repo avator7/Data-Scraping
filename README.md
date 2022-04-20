@@ -7,4 +7,4 @@ I have used beautifulsoup, pandas and requests module of python to scarpa this [
 
 
 I have collected 444 row from 38 pages
-![Screenshot (3)](https://user-images.githubusercontent.com/74177655/164310891-a387ad3c-0536-4d93-94e4-80ce634e8d04.png)
+![image](https://user-images.githubusercontent.com/74177655/164311601-ab024622-aa34-4a96-b33f-2ca00268e597.png)
